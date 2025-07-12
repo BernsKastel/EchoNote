@@ -1,2 +1,2 @@
 # EchoNote
-Whisper splits the MP3 into 2-minute chunks to speed up transcription. Each chunk is then transcribed individually, achieving a success rate of about 98%. Further testing and optimization of chunk processing speed are needed.
+Whisper is used to separate the MP3 into chunks to increase its speed. This is divided into two phases, creating partitions every 2m in the MP3 to increase the transcription level. After that, each chunk will be transcribed. The success rate is almost 98%. Tests need to be carried out and the speed of interpretation of the chunks needs to be improved.
